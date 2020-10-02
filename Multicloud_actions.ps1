@@ -80,11 +80,11 @@ switch ($Action)
 
 
 
-hyprid{"welcome to Hyprid"
+hyprid{"welcome to Hybrid"
 
      $Action=read-host -Prompt "1- Copy_from_AWS_S3_to_VMware_Datastore"
 
-########### List of Hyprid Actions ################
+########### List of Hybrid Actions ################
 
 switch ($Action)
     { 1 {
