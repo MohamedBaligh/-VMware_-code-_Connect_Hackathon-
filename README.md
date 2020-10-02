@@ -15,7 +15,7 @@
 ### This Project has two main scripts
 =====================================
 
- #### * **Profile_config script for making profiles for AWS and VMware Account once and you can use it in the 2nd script "Multicloud_Actions" without entering anymore  
- credentials**
+#### * **Profile_config script for making profiles for AWS and VMware Account once and you can use it in the 2nd script "Multicloud_Actions" without entering anymore  
+credentials**
 
- #### * **Multicloud_Actions for executing VMware & AWS actions in easy manner and also executing hybrid scripts between two environments**
+#### * **Multicloud_Actions for executing VMware & AWS actions in easy manner and also executing hybrid scripts between two environments**
