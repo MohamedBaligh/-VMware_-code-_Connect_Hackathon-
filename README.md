@@ -1,4 +1,4 @@
-# VMware_Code_Hakaton
+# Multicloud Config project for VMware {code} Connect Hackathon 2020
 
 ## The main purpose of this project for demystifying the configuration and reporting the resources for VMware & AWS environments  
 
