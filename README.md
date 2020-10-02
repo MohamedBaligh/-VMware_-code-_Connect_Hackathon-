@@ -3,12 +3,14 @@
 ![VMware {Code} Connect](https://pbs.twimg.com/media/Ec0Ww3MXgAApbg-?format=jpg&name=large)
 
 
-### The main purpose of this project for demystifying the configuration and reporting the resources for VMware & AWS environments  
+### The main purpose of this project for demystifying the configuration and reporting the resources for VMware & AWS environments .
+
 
 ### Pre-requisites
 ====================
 
 ####    **You need to install AWS tools & VMware PowerCli modules over PowerShell**
+
 
 ### This Project has two main scripts
 =====================================
